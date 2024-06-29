@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc-dev-env","Source":"../modules/vpc","Dir":"../modules/vpc"},{"Key":"vpc-prod-env","Source":"../modules/vpc","Dir":"../modules/vpc"}]}
