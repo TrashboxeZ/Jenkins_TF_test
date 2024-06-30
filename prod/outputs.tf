@@ -25,12 +25,4 @@ output "web_srv_public_dns" {
 #   value = module.db-srv.public_ip
 # }
 
-output "rds_db_dns_name" {
-  value = aws_db_instance.maria_rds.address
 
-}
-
-output "rds_db_master" {
-  value = random_string.master_pass.result
-
-}
